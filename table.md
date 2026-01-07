@@ -1,4 +1,4 @@
-Tool,What it is,Best For...
+Tool,What it is,Best For..
 GitHub Proper (Repos),"The ""core"" cloud storage for your Git projects.","Version control, collaboration, and code backup."
 GitHub Gists,Single-file or small snippet hosting.,"Sharing one-off scripts, notes, or code blocks without a full repo."
 GitHub Pages,Free static web hosting.,"Personal portfolios, project documentation, or simple static sites."
